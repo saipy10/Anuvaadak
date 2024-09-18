@@ -1,0 +1,1 @@
+var LangList = ["eng", "hin", "guj", "mal", "mar", "ben"];
